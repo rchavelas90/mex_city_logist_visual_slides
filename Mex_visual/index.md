@@ -8,17 +8,59 @@ highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
 widgets     : []            # {mathjax, quiz, bootstrap}
 mode        : standalone # {standalone, draft}
----
 
-## Read-And-Delete
+--- &twocol w1:40% w2:60%
 
-1. Edit YAML front matter
-2. Write using R Markdown
-3. Use an empty line followed by three dashes to separate slides!
+## Título de la diapositiva
 
---- .class #id 
+Descripción
 
-## Slide 2
+*** left
+
+<img src="assets/img/img1.png" alt="Kitten" width="304" height="228">
+
+*** right
+
+Título
+=====
+
+* * *
+
+Texto 2
+
+ - Lista 1
+ - Lista 2
+ - Lista 3
+ 
+* * *
+
+--- &twocol w1:70% w2:30%
+
+## Título de la diapositiva
+
+Descripción
+
+*** left
+
+![Kitties](http://placekitten.com/600/375)
+
+*** right
+
+Título
+=====
+
+* * *
+
+Texto 2
+
+ - Lista 1
+ - Lista 2
+ - Lista 3
+ 
+* * *
+
+
+
 
 
 

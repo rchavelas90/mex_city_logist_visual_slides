@@ -17,3 +17,6 @@ slidify("index.Rmd")
 
 #para ver en el sitio del tec
 http://paginas.tol.itesm.mx/alumnos/a01184036/R/
+ 
+#guías
+##http://dillinger.io/
