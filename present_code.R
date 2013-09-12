@@ -1,4 +1,5 @@
 setwd("GitLocal/mex_city_logist_visual_slides")
+getwd()
 install.packages("knitr")
 install.packages("markdown")
 library(knitr)
