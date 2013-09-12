@@ -1,6 +1,6 @@
 ---
-title       : Mexico City Visualization Examples
-subtitle    : Report - Transport and Territorial Systems Group - UNAM
+title       : Transport and Territorial Systems Group - UNAM
+subtitle    : Report - Research and Visualization 
 author      : Ricardo Chavelas Manzo
 job         : Industrial and Systems Engineering (ITESM Toluca - 8th semester)
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
@@ -14,9 +14,143 @@ mode        : standalone # {standalone, draft}
 ## Introduction
 
 <font size="5">
+
 <br>
 The purpose of this presentation is to show how the Transport and Territorial Systems Group at UNAM has managed to visualize Mexico City 
+
+To gather information like the one in this presentation is usefull for other people to know in a comprehensive yet easy-to-lear way the composition of Mexico City and the metropolitan area, known usually as __Metropolitan Area of Mexico City__
+
+Emphasis is made on those visualization tools that address freight transportation and logistic activities
+
+Complete information about the images, authors and documents can be found in the site: [Urban Logistics in Mexico City] (https://app.box.com/s/dtlfsyr0ogauk9bkok9n) 
+
+
 </font>
+
+--- idA1 bg:#DFDFDF
+
+## About Dr. Juan Pablo Antún
+
+ - Ph.D Urban and Regional Planning. University of Social Science Grenoble II,  France.
+ - Senior Researcher at [Transport and Territorial Systems Group]( http://proyectos.iingen.unam.mx/LTST/)  (TTSG or in spanish Laboratorio de transporte y Sistemas Territoriales) Foundation: 1989
+ - Founding member of Logistics, Traffic & Transport Consulting. [Logt2] (http://logt2.com)
+
+<center><img src="assets/img/A.png" alt="img1" width="490" height="333"></center>
+
+<font size="3"> </font>
+
+--- idA1 bg:#DFDFDF
+
+## About the website
+
+ - [Urban logistics in Mexico City] (https://app.box.com/s/dtlfsyr0ogauk9bkok9n) contains several documents made by the TTSG
+
+ - Almost all documents were published by Dr. Juan Pablo and Dra. Angélica Lozano. Other members of the TTSG are also involved but not as leading researchers
+
+ - It is still in progress but it can give us an overview of the research at TTSG 
+
+--- .class1 #id1
+
+## Publications
+
+
+--- idA1 bg:#DFDFDF
+
+## Main Publications (1)
+<br>
+* * *
+<u>
+
+Logistic Challenges and Strategies in Physical Distribution of Supplies in Mexico City Center (Downtown)
+
+</u>
+
+
+ - Thesis (Sp)
+ - Year: 2002
+ - Main topic: Distribution of goods within Mexico City
+ - Name in DB: NOT IN DB, open in [website](http://132.248.9.195/pdtestdf/0301910/Index.html) 
+
+* * *
+
+--- idA1 bg:#DFDFDF
+
+## Main Publications (2)
+<br>
+* * *
+<u>
+
+Integral Metropolitan Study on Freight Transport and Environment for the Valley of Mexico
+
+</u>
+
+ - Study (Sp)
+ - Year: 2007
+ - Main Topic: Freight (Supply & demand, policies and routing) in metropolitan area of Mexico City
+ - Name in DB: AL_Integral_Metropolitan_Study.pdf
+
+* * *
+
+--- idA1 bg:#DFDFDF
+
+## Main Publications (3)
+<br>
+* * *
+<u>
+
+Ten strategies to manage freight transport in Mexico City
+
+</u>
+
+ - Talk summary (Sp)
+ - Year: 2002
+ - Main Topic: Freight management and transportation
+ - Name in DB: JPA_10_Strat_Man_Freight_Transport.pdf
+ - Includes presentation: JPA_10_Strat_Man_Freight_Transport_Prnt.pdf
+
+* * *
+
+--- idA1 bg:#DFDFDF
+
+## Main Publications (4)
+<br>
+* * *
+<u>
+
+Metropolitan Area of Mexico City: some findings, some learnings
+
+</u>
+
+ - Workshop (En)
+ - Year: 2011
+ - About: Summary of main research. Freight and pollution. Supply and demand of Freight transportation. Freight corridors, land use and logistics centers
+ - Name in DB: JPA_Metr_Area_Mex_City_Findings_Learnings.pdf
+
+* * *
+
+--- idA1 bg:#DFDFDF
+
+## In short
+
+* * *
+<u>
+Mexico City Metropolitan Area (Very few about Mexico City downtown)
+
+</u>
+Topics:
+
+ - Freight transportation 
+ - Logistic Centers (Urban Logistics Micro-platforms)
+ - Sustainability (related with freight transportation)
+ - Best practices in goods distribution
+ - Use of land (related with the development of logistic platforms)
+ - Public policies (in freight transportation)
+
+* * *
+
+--- .class1 #id1 
+
+## Visualization
 
 --- &twocol id2 w1:50% w2:50% bg:#DFDFDF
 
@@ -37,7 +171,7 @@ Private freight transportation supply or demand (not specified)
 *** bottom
 
 <font size="3">
-Source: Integral Metropolitan Study on Freight Transport and Environment for the Valley of Mexico (Estudio integral metropolitano de transporte de carga y medio ambiente para el Valle de México)</font>
+Source: Integral Metropolitan Study on Freight Transport and Environment for the Valley of Mexico</font>
 
 --- &twocol id3 w1:50% w2:50% bg:#DFDFDF
 
@@ -62,7 +196,7 @@ Main locations that draw and generate freight transportation
 *** bottom
 
 <font size="3">
-Source: Integral Metropolitan Study on Freight Transport and Environment for the Valley of Mexico (Estudio integral metropolitano de transporte de carga y medio ambiente para el Valle de México)</font>
+Source: Integral Metropolitan Study on Freight Transport and Environment for the Valley of Mexico</font>
 
 --- &twocol2 id4 w1:55% w2:45% bg:#DFDFDF
 
@@ -81,13 +215,15 @@ Specialized retailers locations in MZMC.
  - Withe circle, yellow triangle, purple circle & purple unfilled circle: Discount Stores
  - Red cross, blue cross & orange cross: Office supplies
  - Purple cross: Boutique
+ 
+ <font size="3"> See presentation: AL_Bases_Policy_Dev_Logist_Platf.pdf to see other maps like this one (Commercial centers, supermarkets and others) </font>
 
 * * *
 
 *** bottom
 
 <font size="3">
-Source: Integral Metropolitan Study on Freight Transport and Environment for the Valley of Mexico (Estudio integral metropolitano de transporte de carga y medio ambiente para el Valle de México)</font>
+Source: Integral Metropolitan Study on Freight Transport and Environment for the Valley of Mexico</font>
 
 --- &twocol2 id5 w1:55% w2:45% bg:#DFDFDF
 
@@ -109,7 +245,7 @@ Municipalities and districts that are used more often to encolse freight vehicle
 *** bottom
 
 <font size="3">
-Source: Integral Metropolitan Study on Freight Transport and Environment for the Valley of Mexico (Estudio integral metropolitano de transporte de carga y medio ambiente para el Valle de México)</font>
+Source: Integral Metropolitan Study on Freight Transport and Environment for the Valley of Mexico</font>
 
 --- &twocol2 id6 w1:58% w2:42% bg:#DFDFDF
 
@@ -133,7 +269,7 @@ Source: Integral Metropolitan Study on Freight Transport and Environment for the
 *** bottom
 
 <font size="3">
-Source: Integral Metropolitan Study on Freight Transport and Environment for the Valley of Mexico (Estudio integral metropolitano de transporte de carga y medio ambiente para el Valle de México)</font>
+Source: Integral Metropolitan Study on Freight Transport and Environment for the Valley of Mexico</font>
 
 --- &twocol2 id7 w1:58% w2:42% bg:#DFDFDF
 
@@ -159,7 +295,7 @@ Freight corridors
 *** bottom
 
 <font size="3">
-Source: Integral Metropolitan Study on Freight Transport and Environment for the Valley of Mexico (Estudio integral metropolitano de transporte de carga y medio ambiente para el Valle de México)</font>
+Source: Integral Metropolitan Study on Freight Transport and Environment for the Valley of Mexico</font>
 
 --- &twocol2 id8 w1:65% w2:35% bg:#DFDFDF
 
@@ -180,7 +316,7 @@ Lane distribution, road dimensions and physical characteristics
 *** bottom
 
 <font size="3">
-Source: Integral Metropolitan Study on Freight Transport and Environment for the Valley of Mexico (Estudio integral metropolitano de transporte de carga y medio ambiente para el Valle de México)</font>
+Source: Integral Metropolitan Study on Freight Transport and Environment for the Valley of Mexico</font>
 
 --- &twocol2 id9 w1:65% w2:35% bg:#DFDFDF
 
@@ -201,7 +337,7 @@ Number of veihcles that use a specific road
 *** bottom
 
 <font size="3">
-Source: Integral Metropolitan Study on Freight Transport and Environment for the Valley of Mexico (Estudio integral metropolitano de transporte de carga y medio ambiente para el Valle de México)</font>
+Source: Integral Metropolitan Study on Freight Transport and Environment for the Valley of Mexico</font>
 
 --- &twocol2 id10 w1:55% w2:45% bg:#DFDFDF
 
@@ -222,7 +358,7 @@ Width of lines specify the flow of vehicles while the color specify the estimate
 *** bottom
 
 <font size="3">
-Source: Integral Metropolitan Study on Freight Transport and Environment for the Valley of Mexico (Estudio integral metropolitano de transporte de carga y medio ambiente para el Valle de México)</font>
+Source: Integral Metropolitan Study on Freight Transport and Environment for the Valley of Mexico </font>
 
 --- &twocol2 id10 w1:55% w2:45% bg:#DFDFDF
 
@@ -243,7 +379,7 @@ Specific conflictive crossroads and new infrastructure simulation
 *** bottom
 
 <font size="3">
-Source: Integral Metropolitan Study on Freight Transport and Environment for the Valley of Mexico (Estudio integral metropolitano de transporte de carga y medio ambiente para el Valle de México)</font>
+Source: Integral Metropolitan Study on Freight Transport and Environment for the Valley of Mexico </font>
 
 --- &twocol2 id11 w1:60% w2:40% bg:#DFDFDF
 
@@ -257,7 +393,7 @@ Source: Integral Metropolitan Study on Freight Transport and Environment for the
 
 * * *
 
-Analyze how land is used (Industrial, housing, services, trade, etc) and how it has changed
+Analysis of land use (Industrial, housing, services, trade, etc) and how it has changed
 
 <font size="3"> *Main use: Identify locations for logistics activities  </font>
 
@@ -266,7 +402,7 @@ Analyze how land is used (Industrial, housing, services, trade, etc) and how it 
 *** bottom
 
 <font size="3">
-Source: Integral Metropolitan Study on Freight Transport and Environment for the Valley of Mexico (Estudio integral metropolitano de transporte de carga y medio ambiente para el Valle de México)</font>
+Source: Integral Metropolitan Study on Freight Transport and Environment for the Valley of Mexico </font>
 
 --- &twocol2 id11 w1:65% w2:35% bg:#DFDFDF
 
@@ -295,7 +431,7 @@ Main industrial parks in
 *** bottom
 
 <font size="3">
-Source: Strategies for a competitive logistical territorial management of the Central Region of Mexico (Estrategias para el Ordenamiento Territorial Logístico competitivo de la Región Centro) 
+Source: Strategies for a competitive logistical territorial management of the Central Region of Mexico
 </font>
 
 --- &twocol2 id11 w1:65% w2:35% bg:#DFDFDF
@@ -325,7 +461,7 @@ Main distribution centers in
 *** bottom
 
 <font size="3">
-Source: Strategies for a competitive logistical territorial management of the Central Region of Mexico (Estrategias para el Ordenamiento Territorial Logístico competitivo de la Región Centro) 
+Source: Strategies for a competitive logistical territorial management of the Central Region of Mexico
 </font>
 
 --- &twocol2 id11 w1:40% w2:60% bg:#DFDFDF
@@ -349,7 +485,7 @@ Main logistic clusters in central region
 *** bottom
 
 <font size="3">
-Source: Strategies for a competitive logistical territorial management of the Central Region of Mexico (Estrategias para el Ordenamiento Territorial Logístico competitivo de la Región Centro) 
+Source: Strategies for a competitive logistical territorial management of the Central Region of Mexico   
 </font>
 
 --- &twocol2 id11 w1:65% w2:35% bg:#DFDFDF
@@ -376,37 +512,226 @@ Main industrial parks in central region
 *** bottom
 
 <font size="3">
-Source: Strategies for a competitive logistical territorial management of the Central Region of Mexico (Estrategias para el Ordenamiento Territorial Logístico competitivo de la Región Centro).
+Source:Urban Logistics Practices - Case Study: Public policies for urban logistics in the Mexico City Metropolitan Area
 </font>
 
 --- &twocol2 id11 w1:65% w2:35% bg:#DFDFDF
 
-## Logistic clusters
+## Federal and local roads
 
 *** left
 
-<img src="assets/img/img15.png" alt="img1" width="600" height="450">
+<img src="assets/img/img16.png" alt="img1" width="600" height="450">
 
 *** right
 
 * * *
 
-Main industrial parks in central region
- - Red: Industrial parks
- - Green marks: Distribution centers
- - Blue marks: Housing infrastructure bond tied logistic clusters
+Main roads inside and ouside MZMC 
+ - Red lines: Federal high
+ - Red unfilled lines: Local roads
+ - Blue: Mexico City
+ - Green Lines: Municipalities of State of Mexico
  
- <font size="3">Grey lines: Roads and Highways </font>
 
 * * *
 
 *** bottom
 
 <font size="3">
-Source: Strategies for a competitive logistical territorial management of the Central Region of Mexico (Estrategias para el Ordenamiento Territorial Logístico competitivo de la Región Centro).
+Source: Strategies for a competitive logistical territorial management of the Central Region of Mexico 
 </font>
 
+--- &twocol2 id11 w1:65% w2:35% bg:#DFDFDF
 
+## Urban areas in the MZMC
+
+*** left
+
+<img src="assets/img/img17.png" alt="img1" width="600" height="450">
+
+*** right
+
+* * *
+
+Urban Areas in MZMC
+ - Yellow: Urban Areas 
+
+* * *
+
+*** bottom
+
+<font size="3">
+Source: Strategies for a competitive logistical territorial management of the Central Region of Mexico 
+</font>
+
+--- &twocol2 id11 w1:60% w2:40% bg:#DFDFDF
+
+## Land use
+
+*** left
+
+<img src="assets/img/img18.png" alt="img1" width="540" height="400">
+
+*** right
+
+* * *
+
+Analysis of land use (Industrial, housing, services, trade, etc) and how it has changed
+
+<font size="3"> *Main use: Identify locations for logistics activities  </font>
+
+* * *
+
+*** bottom
+
+<font size="3">
+Source: Strategies to Implement Logistics Centres in the Metropolitan Zone of Mexico City</font>
+
+--- &twocol2 id11 w1:65% w2:35% bg:#DFDFDF
+
+## Conflictive crossroads
+
+*** left
+
+<center><img src="assets/img/img19.png" alt="img1" width="600" height="340"></center>
+
+*** right
+
+* * *
+
+Main conflictive intersections in MZMC (2000)
+ - Conflictive crossroad (Yellow)
+ - Geometric modification (Green)
+ - Road sign (Not specified, red)
+ - Crossroad with high number of accidents (Blue)
+ - Metropolitan access (Light green arrow)
+
+
+* * *
+
+*** bottom
+
+<font size="3">
+Source: The freight system in Mexico City. Factors to consider in the analysis of freight transportation and freight mobility</font>
+
+
+--- &twocol2 id11 w1:60% w2:40% bg:#DFDFDF
+
+## Socioeconomic levels in MZMC
+
+*** left
+
+<img src="assets/img/img20.png" alt="img1" width="500" height="500">
+
+*** right
+
+* * *
+
+Socioeconomic Levels, parks and industrial zones
+ - Green: Parks
+ - Gray: Industrial zone
+
+* * *
+
+*** bottom
+
+<font size="3">Source: Integral Metropolitan Study on Freight Transport and Environment for the Valley of Mexico</font>
+
+--- &twocol2 id11 w1:60% w2:40% bg:#DFDFDF
+
+## Classification of freight corridors
+
+*** left
+
+<img src="assets/img/img21.png" alt="img1" width="550" height="450">
+
+*** right
+
+* * *
+
+Freight corridors
+ - Yellow: Freight network
+ - Green: Acces Corridor
+ - Purple: Circuits
+ - Red: Inner corridors
+
+* * *
+
+*** bottom
+
+<font size="3">Source: Integral Metropolitan Study on Freight Transport and Environment for the Valley of Mexico</font>
+
+--- &twocol2 id11 w1:60% w2:40% bg:#DFDFDF
+
+## Classification of freight corridors 
+
+*** left
+
+<img src="assets/img/img22.png" alt="img1" width="550" height="500">
+
+*** right
+
+* * *
+
+Flow improvements in freight corridors by level of priority
+ - Green: Low priority
+ - Blue: Medium priority
+ - Red: High priority
+
+* * *
+
+*** bottom
+
+<font size="3">Source: Integral Metropolitan Study on Freight Transport and Environment for the Valley of Mexico</font>
+
+--- &twocol2 id26 w1:50% w2:50% bg:#DFDFDF
+
+## Location of facilities 
+
+*** left
+
+<img src="assets/img/img23.png" alt="img1" width="480" height="450">
+
+*** right
+
+* * *
+
+Location of facilities, main roads and highways
+ - Yellow: Wholesale market
+ - State limits
+ - Dark Blue: Inner circuit
+ - Blue: Outer circuit
+ - Red: Main Roads (Sp. Ejes Viales)
+ - Light blue: Municipalities and district limits
+ - Light gray: Road network
+
+
+* * *
+
+*** bottom
+
+<font size="3">Source: Logistics centers</font>
+
+--- &twocol2 id27 w1:45% w2:55% bg:#DFDFDF
+
+## Main commercial activities by roads
+
+*** left
+
+<img src="assets/img/img24.png" alt="img1" width="400" height="500">
+
+*** right
+
+* * *
+
+Location: Mexico City Center (Downtown)
+
+* * *
+
+*** bottom
+
+<font size="3">Source: Ten strategies to manage freight transport in Mexico City Center</font>
 
 
 
@@ -417,44 +742,19 @@ Source: Strategies for a competitive logistical territorial management of the Ce
 
 <font color="white">
 
- - Metropolitan Area of Mexico City: some findings, some learnings (JPA_Metr_Area_Mex_City_FIndings_Learnings.pdf) Slides 3-17
- - Urban Logistics Practices - Case Study: Public policies for urban logistics in the Mexico City Metropolitan Area (JPA_Urban_Logistics_Practices.pdf) Slides 18-
+ - Metropolitan Area of Mexico City: some findings, some learnings (JPA_Metr_Area_Mex_City_FIndings_Learnings.pdf) Slides 12-26
+ - Urban Logistics Practices - Case Study: Public policies for urban logistics in the Mexico City Metropolitan Area (JPA_Urban_Logistics_Practices.pdf) Slide 27-28
+ - Strategies to Implement Logistics Centres in the Metropolitan Zone of Mexico City (JPA_Strategies_Dev_Logistics_Centres.pdf) Slide 29
+ - The freight system in Mexico City. Factors to consider in the analysis of freight transportation and freight mobility. (FRM_The_Freight_System_Mex_City.pdf) Slide 30
+ - Integral Metropolitan Study on Freight Transport and Environment for the Valley of Mexico (AL_Integral_Metropolitan_Study.pdf) Slide 31 - 33 
+ - Logistics centers (JPA_Logistics_Centers.pdf) Slide 34
+ - Ten strategies to manage freight transport in Mexico City Center (JPA_10_Strat_Man_Freight_Transport.pdf) Slide 35 
  
- 
+<font size="3"> More information about publications in [Urban Logistics in Mexico City] (https://app.box.com/s/dtlfsyr0ogauk9bkok9n) </font>
+
 </font>
 
-
---- &twocol w1:70% w2:30%
-
-## Título de la diapositiva
-
-Descripción
-
-*** left
-
-![Kitties](http://placekitten.com/600/375)
-
-
-*** right
-
-Título
-=====
-
-* * *
-
-Texto 2
-
- - Lista 1
- - Lista 2
- - Lista 3
- 
-* * *
-
-*** bottom
-
-Pie de página
-
---- .class1 #id1 bg:gray
+--- #id1 bg:gray
 
 ## <font size="8" color="#F87B2D">Por hacer</font>
 
@@ -473,13 +773,14 @@ Pie de página
  - Hablar del año en el que se hizo la presentación
  
  - Acabar las referencias
-
-Fuentes
  
-Metropolitan Area of Mexico City: some findings, some learnings (JPA_Metr_Area_Mex_City_FIndings_Learnings.pdf)
+ -Refinar el inglés :P
+
 </font>
 
+<font color="white">
 
+</font>
 
 
 
